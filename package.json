@@ -14,7 +14,7 @@
     "file-saver": "^2.0.2",
     "johnny-five": "^1.4.0",
     "serialport": "^8.0.7",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "usb-detection": "^4.9.0"
   }
 }
